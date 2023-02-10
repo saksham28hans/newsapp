@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+        {
+            "source": {
+                "id": "news24",
+                "name": "News24"
+            },
+            "author": "Khanyiso Tshwaku",
+            "title": "Elgar showers praise on Sune Luus, Proteas at World Cup: 'They've been brilliant'",
+            "description": "Proteas Test captain Dean Elgar showered praise on the Proteas' women's team that has reached the semi-finals of the Cricket World Cup.",
+            "url": "https://www.news24.com/sport/Cricket/Proteas/elgar-showers-praise-on-sune-luus-proteas-at-world-cup-theyve-been-brilliant-20220328",
+            "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/3250/034950d929824d91bc919624ced836ae.jpg",
+            "publishedAt": "2022-03-28T21:00:28+00:00",
+            "content": "<ul><li>Proteas Test skipper Dean Elgar said their women's counterparts have been brilliant at the Cricket World Cup in New Zealand.</li><li>Sune Luus's side qualified for the semi-finals and will be… [+2102 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news-au",
+                "name": "ABC News (AU)"
+            },
+            "author": "Yara Murray-Atfield",
+            "title": "Shane Warne was a cricket star, but his famous friends most remember him for his 'big heart'",
+            "description": "The rolling out of the red carpet for Shane Warne was a natural consequence of his immense talent on the cricket pitch. But behind the scenes, he forged deep and real friendships with some of the world's biggest names.",
+            "url": "http://www.abc.net.au/news/2022-03-29/shane-warne-famous-friends-mourn-cricket-legend/100935138",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/dea0bfd314181f3c97de81f4e7a18722?impolicy=wcms_crop_resize&cropH=529&cropW=940&xPos=0&yPos=0&width=862&height=485",
+            "publishedAt": "2022-03-28T18:50:52Z",
+            "content": "The tributes and the grief  came from everywhere.\r\nFrom his former teammates and the who's who of the cricketing world, yes. But when the news broke that Shane Warne had died, the shock and sadness a… [+11204 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+            "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+            "publishedAt": "2020-04-27T11:41:47Z",
+            "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+            "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+            "publishedAt": "2020-03-30T15:26:05Z",
+            "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+        }
+    ]
+}
